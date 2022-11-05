@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yibin Wu"
-description              : # ""
+title                    : "Yibin Wu (吴宜斌)"
+description              : "Robotics, photography, sport, and food."
 repository               : "YibinWu/yibinwu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yibin Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Robotics, photography, sport, and food."
+  bio              : "Self-contained."
   location         : 
   employer         :
   pubmed           : 
