@@ -62,7 +62,6 @@ prehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Rob
 - *2019.08* Third prize in the 6th China Graduate Contest on Smart-city Technology and Creative Design
 - *2016.12* National Encouragement Scholarship (Undergraduate) of China
 
-
 # 💻 Internships
 - *2018.09 - 2018.12*, Research Intern in the HD map group at [Momenta](https://www.momenta.cn/en/), Beijing, China.
 
