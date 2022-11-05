@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a research associate at Institute of Geodesy and Geoinformation at Bonn University, Bonn, Germany. I obtained my Master degree in Navigation, Guidance and Control in [i2Nav Lab](http://i2nav.cn/) in Wuhan University in 2020, where I obtained my Bachelor degree in Navigation Engineering in 2017.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on sensor fusion-based robot perception and navigation. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: &nbsp;🎉🎉 A paper on multiple IMUs-based wheeled robot localization has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +38,27 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
+Journal papers
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots](https://arxiv.org/pdf/2012.10593.pdf), **Yibin Wu**, Jian Kuang, Xiaoji Niu, accepted to **IEEE Transations on Intelligent Transportation Systems**, 2022
+- [A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf), **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
+- [Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf), Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
+- [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021
+- [Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi- rotor UAV Landing Requirements](https://www.mdpi.com/1424-8220/19/24/5428), **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Preprints
+- [Formula Derivation and Analysis of the VINS-Mono](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf), **Yibin Wu**, 2019
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🎖 Honors and Awards 
+- *2020.05* Outstanding Master Graduate of Wuhan University 
+- *2019.12* Outstanding Postgraduate Student of Wuhan University
+- *2019.08* **First prize** (1.97%) and **Best Paper Award** (0.41%) in the 14th China Graduate Electronic Design Competition
+- *2019.08* Third prize in the 6th China Graduate Contest on Smart-city Technology and Creative Design
+- *2016.12* National Encouragement Scholarship (Undergraduate) of China
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.09 - 2018.12*, Research Intern in the HD map group at [Momenta](https://www.momenta.cn/en/), Beijing, China.
