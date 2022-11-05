@@ -19,10 +19,8 @@ redirect_from:
 
 I am a research associate at the Institute of Geodesy and Geoinformation in Bonn University, Bonn, Germany. I obtained my Master degree in Navigation, Guidance and Control in [i2Nav Lab](http://i2nav.cn/) at Wuhan University in 2020, where I obtained my Bachelor degree in Navigation Engineering in 2017.
 
-My research interest focuses on sensor fusion-based robot perception and navigation. 
-<!--
-<a href='https://scholar.google.com/citations?user=MKOtRJwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
--->
+My research interest focuses on sensor fusion-based robot perception and navigation.<a href='https://scholar.google.com/citations?user=MKOtRJwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 
 # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 A paper on multiple IMUs-based wheeled robot localization has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
