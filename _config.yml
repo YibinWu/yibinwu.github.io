@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yibin Wu"
-description              : "Robotics, photography, sport, and food."
+description              : # ""
 repository               : "YibinWu/yibinwu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yibin Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Robotics, photography, sport, and food."
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=MKOtRJwAAAAJ"
   email            : "ybwu@whu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yibin-Wu-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "YibinWu"
   google_plus      :
   keybase          :
   instagram        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
