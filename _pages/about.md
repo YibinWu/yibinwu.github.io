@@ -19,8 +19,10 @@ redirect_from:
 
 I am a research associate at the Institute of Geodesy and Geoinformation in Bonn University, Bonn, Germany. I obtained my Master degree in Navigation, Guidance and Control in [i2Nav Lab](http://i2nav.cn/) at Wuhan University in 2020, where I obtained my Bachelor degree in Navigation Engineering in 2017.
 
-My research interest focuses on sensor fusion-based robot perception and navigation. <a href='https://scholar.google.com/citations?user=MKOtRJwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
+My research interest focuses on sensor fusion-based robot perception and navigation. 
+<!--
+<a href='https://scholar.google.com/citations?user=MKOtRJwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-->
 
 # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 A paper on multiple IMUs-based wheeled robot localization has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
@@ -43,7 +45,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 
 - [Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots](https://arxiv.org/pdf/2012.10593.pdf), **Yibin Wu**, Jian Kuang, Xiaoji Niu, accepted to **IEEE Transations on Intelligent Transportation Systems**, 2022
 - [A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf), **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
-- [Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf), Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+- [Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf), Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
 - [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021
 - [Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi- rotor UAV Landing Requirements](https://www.mdpi.com/1424-8220/19/24/5428), **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019
 
