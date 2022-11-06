@@ -54,9 +54,7 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
 
 - [A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf), **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
 
-- [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 
-
-(Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.
+- [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 (Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.)
 
 - [Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements](https://www.mdpi.com/1424-8220/19/24/5428), **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019
 
