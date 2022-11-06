@@ -27,21 +27,34 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-IMUinstallation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf), Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
-
-- An robust and accurate localization system for the wheeled robots using one low-cost wheel-mounted IMU by taking advantage of rotation modulation.
-</div>
-</div>
-
 ## Journal papers
 
-- [Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots](https://arxiv.org/pdf/2012.10593.pdf), **Yibin Wu**, Jian Kuang, Xiaoji Niu, accepted to **IEEE Transations on Intelligent Transportation Systems**, 2022
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/Wheel-INS3_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots](https://arxiv.org/pdf/2012.10593.pdf)
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, accepted to **IEEE Transations on Intelligent Transportation Systems**, 2022
+
+- A localization system for wheeled robots using multiple low-cost IMUs with comparison on different configurations, e.g., one body-mounted IMU (Body-IMU) plus one wheel-mounted IMU (Wheel-IMU), dual Wheel-IMUs, and dual Wheel-IMUs plus one Body-IMU.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)
+Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+
+- A robust and accurate localization system for the wheeled robots using one low-cost wheel-mounted IMU by taking advantage of rotation modulation.
+</div>
+</div>
+
+
 - [A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf), **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
-- [Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf), Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
-- [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 (Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.
+
+- [A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles), Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 
+(Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.
+
 - [Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements](https://www.mdpi.com/1424-8220/19/24/5428), **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019
 
 
