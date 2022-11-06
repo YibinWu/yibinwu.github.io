@@ -63,7 +63,7 @@ prehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Rob
 # 💻 Internships
 - *2018.09 - 2018.12*, Research Intern in the HD map group at [Momenta](https://www.momenta.cn/en/), Beijing, China.
 
-<span class='anchor' id='academic-services'></span>
+<span class='anchor' id='-academic-services'></span>
 # 🙋‍♂️ Academic Services
 - Conference Reviewer: ICRA
 - Journal Reviewer: IEEE Sensors Journal
