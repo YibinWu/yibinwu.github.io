@@ -71,7 +71,7 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
  <!--
 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
 -->
--  A SLAM system with only one low-cost IMU by using the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
+-  A SLAM system using only one low-cost IMU by exploiting the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
 </div>
 </div>
 
