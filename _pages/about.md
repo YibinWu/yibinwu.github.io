@@ -36,9 +36,10 @@ My research interest focuses on sensor fusion-based robot perception and navigat
   
 **Yibin Wu**, Jian Kuang, Xiaoji Niu, accepted to **IEEE Transations on Intelligent Transportation Systems**, 2022
 
-- A localization system for wheeled robots using multiple low-cost IMUs with comparison on different configurations, e.g., one body-mounted IMU (Body-IMU) plus one wheel-mounted IMU (Wheel-IMU), dual Wheel-IMUs, and dual Wheel-IMUs plus one Body-IMU.
+- A multiple IMUs-based localization system for wheeled robots by obtaining different dynamic information of the vhehicle and taking advantage of the relative spatial constraints among the inertial sensors with a comparison on different configurations, e.g., one body-mounted IMU (Body-IMU) plus one wheel-mounted IMU (Wheel-IMU), dual Wheel-IMUs, and dual Wheel-IMUs plus one Body-IMU.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,6 +61,20 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
 
 
 ## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
+  
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, 2022 
+ <!--
+[Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+-->
+-  A SLAM system with only one low-cost IMU by using the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
+</div>
+</div>
+
 - [Formula Derivation and Analysis of the VINS-Mono](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf), **Yibin Wu**, 2019 (A detailed and comprehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), one of the state-of-the-art visual-inertial odometry systems.)
 
 
