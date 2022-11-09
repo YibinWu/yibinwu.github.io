@@ -47,7 +47,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
   
 **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
 
-- A thorough and complete comparison on three different measurement models (vehicle velocity information obtained from the wwheel-mounted IMU) in Wheel-INS with both theoritical analysis and experimental illustration.
+- A thorough and complete comparison on three different measurement models (vehicle velocity information obtained from the wwheel-mounted IMU) in Wheel-INS with both theoretical analysis and experimental illustration.
 </div>
 </div>
 
