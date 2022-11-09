@@ -40,7 +40,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_Comp_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_Comp_5_3_homepage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf)
