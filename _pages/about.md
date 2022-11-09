@@ -67,7 +67,7 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
 
 [Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
   
-**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, 2022 
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, 2022 [Wheel-SLAM ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
  <!--
 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
 -->
