@@ -30,7 +30,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 
 ## Journal papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL 2022</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
