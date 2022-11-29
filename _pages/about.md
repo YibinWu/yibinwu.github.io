@@ -23,11 +23,26 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 -->
 
 # 🔥 News
+- *2022.11*: &nbsp;🎉🎉 A paper on one wheel-mounted IMU based SLAM has been accepted to IEEE Robotics and Automation Letters. 
 - *2022.11*: &nbsp;🎉🎉 A paper on multiple IMUs-based wheeled robot localization has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
 
 # 📝 Publications 
 
 ## Journal papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
+  
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, 2022 [Wheel-SLAM ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
+ <!--
+[Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+-->
+-  A SLAM system using only one low-cost IMU by exploiting the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/Wheel-INS3_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,19 +83,6 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
 
 
 ## Preprints
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
-  
-**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, 2022 [Wheel-SLAM ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
- <!--
-[Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
--->
--  A SLAM system using only one low-cost IMU by exploiting the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
-</div>
-</div>
 
 - [Formula Derivation and Analysis of the VINS-Mono](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf), **Yibin Wu**, 2019 (A detailed and comprehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), one of the state-of-the-art visual-inertial odometry systems.)
 
