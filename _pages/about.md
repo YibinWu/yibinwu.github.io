@@ -30,12 +30,12 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 
 ## Journal papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU](https://arxiv.org/pdf/2211.03174.pdf)
   
-**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, **IEEE Robotics and Automation Letters**, 2022 [Wheel-SLAM ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, **IEEE Robotics and Automation Letters**, 2022 [ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
  <!--
 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
 -->
@@ -70,7 +70,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 <div class='paper-box-text' markdown="1">
 [Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)
   
-Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 [ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
 
 - A robust and accurate localization system for the wheeled robots using one low-cost wheel-mounted IMU by taking advantage of rotation modulation.
 </div>
