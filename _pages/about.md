@@ -23,8 +23,8 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 -->
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 A paper on one wheel-mounted IMU based SLAM has been accepted to IEEE Robotics and Automation Letters. 
-- *2022.11*: &nbsp;🎉🎉 A paper on multiple IMUs-based wheeled robot localization has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
+- *2022.11*: &nbsp;🎉🎉 A paper on **one wheel-mounted IMU-based SLAM** has been accepted to IEEE Robotics and Automation Letters. 
+- *2022.11*: &nbsp;🎉🎉 A paper on **multiple IMUs-based wheeled robot localization** has been accepted to IEEE Transactions on Intelligent Transportation Systems. 
 
 # 📝 Publications 
 
