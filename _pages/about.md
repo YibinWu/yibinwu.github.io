@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research associate at the Institute of Geodesy and Geoinformation of the University of Bonn, Bonn, Germany. I obtained my Master's degree in Navigation, Guidance, and Control in [i2Nav Lab](http://i2nav.cn/) at Wuhan University, Wuhan, China in 2020. It was enjoyable and rewarding to be supervised by Prof. [Xiaoji Niu](https://dblp.org/pid/94/652.html) and study within his group. I obtained my Bachelor's degree in Navigation Engineering at the same institute in 2017.
+I am a research associate at the [Institute of Geodesy and Geoinformation](https://www.igg.uni-bonn.de/en?set_language=en) of the University of Bonn, Bonn, Germany. I obtained my Master's degree in Navigation, Guidance, and Control in [i2Nav Lab](http://i2nav.cn/) at Wuhan University, Wuhan, China in 2020. It was enjoyable and rewarding to be supervised by Prof. [Xiaoji Niu](https://dblp.org/pid/94/652.html) and study within his group. I obtained my Bachelor's degree in Navigation Engineering at the same institute in 2017.
 
 My research interest focuses on sensor fusion-based robot perception and navigation.<!--<a href='https://scholar.google.com/citations?user=MKOtRJwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
@@ -58,7 +58,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_Comp_5_3_homepage.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System** [PDF](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf)
+**A Comparison of Three Measurement Models for the Wheel-mounted MEMS IMU-based Dead Reckoning System** [[PDF]](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804728655046341.pdf)
   
 **Yibin Wu**, Xiaoji Niu, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021
 
@@ -68,7 +68,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/Wheel-INS_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System** [[PDF]](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf) [[Code]][ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
+**Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System** [[PDF]](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf) [[Code]](https://github.com/i2Nav-WHU/Wheel-INS)[ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
   
 Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 
 
@@ -77,9 +77,9 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology
 </div>
 
 
-- **A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles**, Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 (in Chinese)(Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.) [PDF](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles)
+- **A MEMS IMU and motion constraint-based positioning algorithm for shared bicycles**, Xiaoji Niu, Longyang Ding, Jian Kuang, **Yibin Wu** (Corresponding author), **Journal of Chinese Inertial Technology**, 2021 (in Chinese)(Longyang Ding was a undergraduate student supervised by me. He won the **Special Prize** of the *12th China Undergraduate Contest on Surveying & Mapping Technical Paper* based on this project.) [[PDF]](https://www.researchgate.net/publication/355757283_A_MEMS_IMU_and_motion_constraint-based_positioning_algorithm_for_shared_bicycles)
 
-- **Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements**, **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019 [PDF](https://www.mdpi.com/1424-8220/19/24/5428)
+- **Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements**, **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019 [[PDF]](https://www.mdpi.com/1424-8220/19/24/5428)
 
 
 ## Preprints
