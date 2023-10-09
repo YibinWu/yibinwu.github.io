@@ -71,7 +71,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 <div class='paper-box-text' markdown="1">
 **Wheel-INS: A Wheel-mounted MEMS IMU-based Dead Reckoning System** [[PDF]](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf) [[Code]](https://github.com/i2Nav-WHU/Wheel-INS)[ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
   
-Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transations on Vehicular Technology**, 2021 
+Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technology**, 2021 
 
 - A robust and accurate localization system for the wheeled robots using one low-cost wheel-mounted IMU by taking advantage of rotation modulation.
 </div>
