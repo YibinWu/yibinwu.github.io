@@ -91,8 +91,8 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 
 
 # 🎖 Honors and Awards 
-- *2020.05* Outstanding Master Graduate of Wuhan University 
-- *2019.12* Outstanding Postgraduate Student of Wuhan University
+- *2020.05* Outstanding Master Graduate <!--of Wuhan University--> 
+- *2019.12* Outstanding Postgraduate Student <!--of Wuhan University-->
 - *2019.08* **First prize** (1.97%) and **Best Paper Award** (0.41%) in the 14th China Graduate Electronic Design Competition
 - *2019.08* Third prize in the 6th China Graduate Contest on Smart-city Technology and Creative Design
 - *2016.12* National Encouragement Scholarship (Undergraduate) of China
