@@ -25,6 +25,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 -->
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. 
 - *2023.10*: &nbsp;🎉🎉 A completely new version of the [**Wheel-INS**](https://github.com/i2Nav-WHU/Wheel-INS/tree/master) code supporting both Linux and Windows is released! Check it out!
 - *2023.02*: &nbsp;🎉🎉 I am invited by CVlife to give an online presentation about my research on Wheel-IMU. Check out the video in [Bilibili](https://www.bilibili.com/video/BV1y84y1n7PG/?spm_id_from=333.999.0.0&vd_source=b5a4ea43333bf9e59a06f2f4fa10f5a8)! (in Chinese)
 - *2022.11*: &nbsp;🎉🎉 A paper on **one wheel-mounted IMU-based SLAM** ([**Wheel-SLAM**](https://arxiv.org/pdf/2211.03174.pdf)) has been accepted to IEEE Robotics and Automation Letters. 
