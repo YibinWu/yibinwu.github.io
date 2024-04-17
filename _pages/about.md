@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the [Institute of Geodesy and Geoinformation](https://www.igg.uni-bonn.de/en?set_language=en) of the University of Bonn, Bonn, Germany. 
+I am a PhD candidate at the [Center for Robotics](https://robotik.uni-bonn.de/Home.html) and [Institute of Geodesy and Geoinformation](https://www.igg.uni-bonn.de/en?set_language=en) in the University of Bonn, Bonn, Germany. 
 
 <!--I obtained my Master's degree in Navigation, Guidance, and Control in [i2Nav Lab](http://i2nav.cn/) at Wuhan University, Wuhan, China in 2020. It was enjoyable and rewarding to be supervised by Prof. [Xiaoji Niu](https://dblp.org/pid/94/652.html) and study within his group. I obtained my Bachelor's degree in Navigation Engineering at the same institute in 2017.-->
 
@@ -25,7 +25,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. 
+- *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based High-Frequency LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. 
 - *2023.10*: &nbsp;🎉🎉 A completely new version of the [**Wheel-INS**](https://github.com/i2Nav-WHU/Wheel-INS/tree/master) code supporting both Linux and Windows is released! Check it out!
 - *2023.02*: &nbsp;🎉🎉 I am invited by CVlife to give an online presentation about my research on Wheel-IMU. Check out the video in [Bilibili](https://www.bilibili.com/video/BV1y84y1n7PG/?spm_id_from=333.999.0.0&vd_source=b5a4ea43333bf9e59a06f2f4fa10f5a8)! (in Chinese)
 - *2022.11*: &nbsp;🎉🎉 A paper on **one wheel-mounted IMU-based SLAM** ([**Wheel-SLAM**](https://arxiv.org/pdf/2211.03174.pdf)) has been accepted to IEEE Robotics and Automation Letters. 
@@ -105,4 +105,4 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 <span class='anchor' id='-academic-services'></span>
 # 🙋‍♂️ Academic Services
 - Conference Reviewer: ICRA
-- Journal Reviewer: IEEE Sensors Journal
+- Journal Reviewer: IEEE Sensors Journal, IEEE T-SP
