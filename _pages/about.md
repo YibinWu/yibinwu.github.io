@@ -34,7 +34,6 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 # 📝 Publications 
 
 ## Journal papers
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL 2022</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,8 +85,8 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 
 - **Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements**, **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019 [[PDF]](https://www.mdpi.com/1424-8220/19/24/5428)
 
-## Conference papers
 
+## Conference papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/lio_ekf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,8 +98,8 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 </div>
 </div>
 
-## Preprints
 
+## Preprints
 - [Formula Derivation and Analysis of the VINS-Mono](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf), **Yibin Wu**, 2019 (A detailed and comprehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), one of the state-of-the-art visual-inertial odometry systems.)
 
 
