@@ -25,7 +25,7 @@ My research interest focuses on sensor fusion-based robot perception and navigat
 -->
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based High-Frequency LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. 
+- *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based high-frequency LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. Try the [code](https://github.com/YibinWu/LIO-EKF)!
 - *2023.10*: &nbsp;🎉🎉 A completely new version of the [**Wheel-INS**](https://github.com/i2Nav-WHU/Wheel-INS/tree/master) code supporting both Linux and Windows is released! Check it out!
 - *2023.02*: &nbsp;🎉🎉 I am invited by CVlife to give an online presentation about my research on Wheel-IMU. Check out the video in [Bilibili](https://www.bilibili.com/video/BV1y84y1n7PG/?spm_id_from=333.999.0.0&vd_source=b5a4ea43333bf9e59a06f2f4fa10f5a8)! (in Chinese)
 - *2022.11*: &nbsp;🎉🎉 A paper on **one wheel-mounted IMU-based SLAM** ([**Wheel-SLAM**](https://arxiv.org/pdf/2211.03174.pdf)) has been accepted to IEEE Robotics and Automation Letters. 
@@ -86,6 +86,18 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 
 - **Artificial Marker and MEMS IMU-Based Pose Estimation Method to Meet Multi-rotor UAV Landing Requirements**, **Yibin Wu**, Xiaoji Niu, Junwei Du, Le Chang, Hailiang Tang, Hongping Zhang, **Sensors**, 2019 [[PDF]](https://www.mdpi.com/1424-8220/19/24/5428)
 
+## Conference papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/lio_ekf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters** [[PDF]](https://arxiv.org/pdf/2311.09887.pdf) [[Code]](https://github.com/YibinWu/LIO-EKF)[ ![](https://img.shields.io/github/stars/YibinWu/LIO-EKF)](https://github.com/YibinWu/LIO-EKF)
+
+**Yibin Wu**, Tiziano Guadagnino, Louis Wiesmann, Lasse Klingbeil, Cyrill Stachniss, and Heiner Kuhlmann, **ICRA**, 2024 
+
+-  A high-frequency LiDAR-inertial odometry system based on adaptive point-to-point registration and EKF, achieving comparative accuracy to the state-of-the-art. 
+</div>
+</div>
 
 ## Preprints
 
