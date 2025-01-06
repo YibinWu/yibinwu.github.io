@@ -25,6 +25,7 @@ I am looking for self-motivated Master students (online/offline) to work on topi
 -->
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 A paper on **GNSS/INS integrated navigation system with a wheel-mounted IMU** ([**Wheel-GINS**](https://github.com/i2Nav-WHU/Wheel-GINS)) has been accepted to IEEE Transactions on Intelligent Transportation Systems!
 - *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based high-frequency LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. Try the [code](https://github.com/YibinWu/LIO-EKF)!
 - *2023.10*: &nbsp;🎉🎉 A completely new version of the [**Wheel-INS**](https://github.com/i2Nav-WHU/Wheel-INS/tree/master) code supporting both Linux and Windows is released! Check it out!
 - *2023.02*: &nbsp;🎉🎉 I am invited by CVlife to give an online presentation about my research on Wheel-IMU. Check out the video in [Bilibili](https://www.bilibili.com/video/BV1y84y1n7PG/?spm_id_from=333.999.0.0&vd_source=b5a4ea43333bf9e59a06f2f4fa10f5a8)! (in Chinese)
