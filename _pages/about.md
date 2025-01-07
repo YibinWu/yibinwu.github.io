@@ -58,7 +58,7 @@ I am looking for self-motivated Master students (online/offline) to work on topi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/Wheel-INS2_homepage_new.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/wheelins2_homepage_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots** [[PDF]](https://arxiv.org/pdf/2012.10593.pdf)
