@@ -35,28 +35,37 @@ I am looking for self-motivated Master students (online/offline) to work on topi
 # 📝 Publications 
 
 ## Journal papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL 2022</div><img src='images/Wheel-SLAM_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2025</div><img src='images/wheelgins.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU** [[PDF]](https://arxiv.org/pdf/2501.03079) [[Code]](https://github.com/i2Nav-WHU/Wheel-GINS)[ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-GINS?style=social)](https://github.com/i2Nav-WHU/Wheel-GINS)
+  
+**Yibin Wu**, Jian Kuang, Xiaoji Niu, Cyrill Stachniss, Lasse Klingbeil, and Heiner Kuhlmann, **IEEE Transactions on Intelligent Transportation Systems**, 2025 
+
+-  Wheel-GINS is an integrated navigation system that combines GNSS data with a wheel-mounted IMU (Wheel-IMU). It performs a similar information fusion process to conventional GNSS/Odometer/IMU integrated systems using only two sensors. Moreover, all Wheel-IMU installation parameters are estimated online in Wheel-GINS, enhancing the system's practicality and adaptability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL 2022</div><img src='images/wheel-slam_homepage_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU** [[PDF]](https://arxiv.org/pdf/2211.03174.pdf) [[Code]](https://github.com/i2Nav-WHU/Wheel-SLAM)[ ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-SLAM?style=social)](https://github.com/i2Nav-WHU/Wheel-SLAM)
   
 **Yibin Wu**, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, and Heiner Kuhlmann, **IEEE Robotics and Automation Letters**, 2022 
- <!--
-[Wheel-INS ![](https://img.shields.io/github/stars/i2Nav-WHU/Wheel-INS?style=social)](https://github.com/i2Nav-WHU/Wheel-INS)
--->
+
 -  A SLAM system using only one low-cost IMU by exploiting the road bank angles (mirrored by the robot roll angles estimated by [Wheel-INS](http://i2nav.cn/ueditor/jsp/upload/file/20210905/1630804325780076093.pdf)) as terrain features to enable the loop closure with a Rao-Blackwellized particle filter. The weights of the particles are updated according to the difference between the currently estimated roll sequence and the terrain map.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/Wheel-INS3_5_3_homepage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/Wheel-INS2_homepage_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wheel-INS2: Multiple MEMS IMU-based Dead Reckoning System with Different Configurations for Wheeled Robots** [[PDF]](https://arxiv.org/pdf/2012.10593.pdf)
   
 **Yibin Wu**, Jian Kuang, Xiaoji Niu, **IEEE Transactions on Intelligent Transportation Systems**, 2022
 
-- A multiple IMUs-based localization system for wheeled robots by obtaining different dynamic information of the vehicle and taking advantage of the relative spatial constraints among the inertial sensors with a comparison of different configurations, e.g., one body-mounted IMU (Body-IMU) plus one wheel-mounted IMU (Wheel-IMU), dual Wheel-IMUs, and dual Wheel-IMUs plus one Body-IMU.
+- A multiple IMUs-based localization system for wheeled robots by obtaining different dynamic information of the vehicle and taking advantage of the relative spatial constraints among the inertial sensors with a comparison of various configurations, e.g., one body-mounted IMU (Body-IMU) plus one wheel-mounted IMU (Wheel-IMU), dual Wheel-IMUs, and dual Wheel-IMUs plus one Body-IMU.
 </div>
 </div>
 
