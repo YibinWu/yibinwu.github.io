@@ -126,4 +126,4 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 <span class='anchor' id='-academic-services'></span>
 # 🙋‍♂️ Academic Services
 - Conference Reviewer: ICRA
-- Journal Reviewer: IEEE Sensors Journal, IEEE T-SP
+- Journal Reviewer: IEEE T-ITS, IEEE T-VT, IEEE T-SP, IEEE Sensors-J
