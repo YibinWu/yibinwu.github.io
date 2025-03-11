@@ -110,6 +110,19 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 
 
 ## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/go2_coordinates.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs** [[PDF]](https://arxiv.org/pdf/2503.04580) 
+
+**Yibin Wu**, Jian Kuang, Shahram Khorshidi, Xiaoji Niu,
+Lasse Klingbeil, Maren Bennewitz, Heiner Kuhlmann 
+
+- A state estimation system for legged robots that fuses the measurements from a body-mounted inertial measurement unit (Body-IMU), joint encoders, and multiple leg-mounted IMUs (Leg-IMU) using an extended Kalman filter (EKF). 
+</div>
+</div>
+
 - [Formula Derivation and Analysis of the VINS-Mono](https://arxiv.org/ftp/arxiv/papers/1912/1912.11986.pdf), **Yibin Wu**, 2019 (A detailed and comprehensive formula derivation of [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), one of the state-of-the-art visual-inertial odometry systems.)
 
 
@@ -126,4 +139,4 @@ Xiaoji Niu, **Yibin Wu**, Jian Kuang, **IEEE Transactions on Vehicular Technolog
 <span class='anchor' id='-academic-services'></span>
 # 🙋‍♂️ Academic Services
 - Conference Reviewer: ICRA
-- Journal Reviewer: IEEE T-ITS, IEEE T-VT, IEEE T-SP, Measurement(Elsevier), IEEE Sensors-J
+- Journal Reviewer: IEEE T-ITS, IEEE T-SP, IEEE T-VT, IEEE RA-L, Measurement(Elsevier), IEEE Sensors-J
