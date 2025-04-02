@@ -25,7 +25,7 @@ I am looking for self-motivated Master students (online/offline) to work on topi
 -->
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Checkout our new preprint on multiple leg-mounted IMU-based proprioceptive state estimation for legged robots ([**DogLegs**](https://arxiv.org/abs/2503.04580))!
+- *2025.03*: &nbsp;🎉🎉 Checkout our new preprint on multiple leg-mounted IMUs-based proprioceptive state estimation for legged robots ([**DogLegs**](https://arxiv.org/abs/2503.04580))!
 - *2025.01*: &nbsp;🎉🎉 A paper on **GNSS/INS integrated navigation system with a wheel-mounted IMU** ([**Wheel-GINS**](https://github.com/i2Nav-WHU/Wheel-GINS)) has been accepted to IEEE Transactions on Intelligent Transportation Systems!
 - *2024.10*: &nbsp;🎉🎉 Very happy to visit the Smart Robotics Lab at TUM and give a talk there. Thanks to [Prof. Stefan Leutenegger](https://srl.cit.tum.de/members/leuteneg) for hosting me!
 - *2024.02*: &nbsp;🎉🎉 A paper on **EKF-based high-frequency LiDAR-inertial odometry** ([**LIO-EKF**](https://arxiv.org/pdf/2311.09887.pdf)) has been accepted to ICRA. Try the [code](https://github.com/YibinWu/LIO-EKF)!
@@ -129,6 +129,7 @@ Lasse Klingbeil, Maren Bennewitz, Heiner Kuhlmann
 
 
 # 🎖 Honors and Awards 
+- *2023.10* Second Place in the ICCV 2023 SLAM Challenge (LiDAR-Inertial Track)
 - *2020.05* Outstanding Master Graduate of Wuhan University
 - *2019.12* Outstanding Postgraduate Student of Wuhan University
 - *2019.08* **First prize** (1.97%) and **Best Paper Award** (0.41%) in the 14th China Graduate Electronic Design Competition
